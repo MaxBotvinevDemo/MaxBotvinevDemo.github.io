@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GeoSphereDemo.data.unityweb",
+"asmCodeUrl": "GeoSphereDemo.asm.code.unityweb",
+"asmMemoryUrl": "GeoSphereDemo.asm.memory.unityweb",
+"asmFrameworkUrl": "GeoSphereDemo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
