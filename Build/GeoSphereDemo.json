@@ -5,6 +5,6 @@
 "asmMemoryUrl": "GeoSphereDemo.asm.memory.unityweb",
 "asmFrameworkUrl": "GeoSphereDemo.asm.framework.unityweb",
 "backgroundUrl": "GeoSphereDemo.jpg",
-"splashScreenStyle": "Light",
+"splashScreenStyle": "Dark",
 "backgroundColor": "#FFFFFF"
 }
